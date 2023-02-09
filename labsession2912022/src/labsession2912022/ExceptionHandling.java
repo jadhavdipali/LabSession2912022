@@ -1,5 +1,4 @@
-/* WAP where you take input of Two numbers (i,j)
-from the user and divide the first number with second number include Exception handaling mechanism.
+/* WAP where you take input of Two numbers (i,j)from the user and divide the first number with second number include Exception handaling mechanism.
 */
 
 package labsession2912022;
